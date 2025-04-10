@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi There 👋
 # Hema-Mandava
 
 ### 🔭 **Java Full Stack Developer**
